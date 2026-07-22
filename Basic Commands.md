@@ -1,6 +1,7 @@
 # Basic Commands
 
 **Installing typescript**
+
 ```npm install -g typescript ```
 
 **Compiling TS to javascript**
