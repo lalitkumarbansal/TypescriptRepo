@@ -20,3 +20,5 @@ latest executable is 5.7 on npm, then tsc is going to compile using 5.7.
 **Generating TS config**
 
 ``` tsc --init```
+
+This will create tsconfig.json file 
