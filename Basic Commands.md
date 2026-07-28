@@ -27,5 +27,5 @@ This will create tsconfig.json file
 
 ``` npm init```
 
-This will create tsconfig.json file 
+This will create pcakage.json file 
 
