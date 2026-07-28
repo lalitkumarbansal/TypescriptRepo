@@ -29,3 +29,17 @@ This will create tsconfig.json file
 
 This will create pcakage.json file 
 
+
+**Add following section to package.json**
+```   
+
+"scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start:dev": "tsc --watch",
+    "start": "node index.js"
+  }
+
+```
+
+``` node run start:dev ```
+
