@@ -41,5 +41,6 @@ This will create pcakage.json file
 
 ```
 
+**Run the following command to keep the development mode on**
 ``` node run start:dev ```
 
