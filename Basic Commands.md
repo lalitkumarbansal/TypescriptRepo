@@ -47,8 +47,8 @@ This will create pcakage.json file
 **Importing node type modules**
 Typescript does not understand by react or node types for this we need to install type modules
 
-``` npm install @types/react ```
-``` npm install @types/node ```
+``` npm install @types/react --save-dev```
+``` npm install @types/node  --save-dev```
 
 There is repository for these types https://github.com/DefinitelyTyped/DefinitelyTyped
 
