@@ -53,7 +53,7 @@ This will create pcakage.json file
 ```
 
 **Run the following command to keep the development mode on**
-``` node run start:dev ```
+``` npm run start:dev ```
 
 **Importing node type modules**
 Typescript does not understand by react or node types for this we need to install type modules
