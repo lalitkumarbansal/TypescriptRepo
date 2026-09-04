@@ -3,6 +3,8 @@
 **Installing typescript**
 
 ```npm install -g typescript ```
+or
+```npm install --save-dev typescript @types/node```
 
 **Compiling TS to javascript**
 
