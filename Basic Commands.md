@@ -6,7 +6,7 @@
 or
 ```npm install --save-dev typescript @types/node```
 or 
-```npm install -D typescript1```
+```npm install -D typescript```
 
 **Compiling TS to javascript**
 
